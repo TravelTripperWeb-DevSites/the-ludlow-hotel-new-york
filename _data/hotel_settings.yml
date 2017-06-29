@@ -1,0 +1,16 @@
+---
+_hotel_id: THE511
+_portal_id: required-but-empty
+_root_path: https://qa4.ttaws.com/rt
+latitude: 40.72185
+longitude: -73.98747
+name: The Ludlow Hotel
+email: steffan@traveltripper.io
+phone_number: "--"
+address:
+  street1: 180 Ludlow Street
+  street2: ''
+  state: New York
+  city: New York
+  country: United States
+  zip_code: '10002'
